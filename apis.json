@@ -1,0 +1,46 @@
+{
+    "name": "StesCodes Social Login",
+    "description": "Social inviter enables your user to import contacts, import friends, send message to friends, fetches user profile and post content to social networks in clicks.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1169-stescodes-social-login.jpg",
+    "tags": [
+        "have api",
+        "login",
+        "social",
+        "social profiles"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stescodes-social-login\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "StesCodes Social Login",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1169-stescodes-social-login.jpg",
+            "humanURL": "http:\/\/stescodes.com\/sociallogin.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stescodes-social-login-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/stescodes.com\/sociallogin.aspx"
+        },
+        {
+            "type": "Email",
+            "url": "support@socialinviter.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/socialinviter"
+        }
+    ]
+}
